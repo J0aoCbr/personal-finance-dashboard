@@ -1,0 +1,10 @@
+{
+  "description": "Track spending, manage budgets, and monitor savings in one clear dashboard that helps individuals make informed decisions and stay on top of their finances.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
